@@ -1,3 +1,3 @@
-# first_app
+# WeatherNow
 
-A new Flutter project.
+A weather android app made using flutter.
